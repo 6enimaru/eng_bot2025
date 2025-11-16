@@ -1,0 +1,118 @@
+Module 6: Reported Speech
+Introduction
+Direct speech is the exact words someone said. We use quotation marks in direct speech.
+
+Reported speech is the exact meaning of what someone said, but not the exact words. We do not use quotation marks in reported speech. The word that can either be used or omitted after the introductory verb (say, tell, etc).
+
+Say vs Tell
+Say:
+say + (that) + clause
+She said (that) she was very happy.
+say + to + personal object + (that) + clause
+She said to me (that) she was very happy.
+
+Tell:
+tell + personal object + (that) + clause
+She told me (that) she was very happy.
+Important Notes
+We use say + to-infinitive but never say-about. We use speak/talk about instead.
+Ann said to wake her up at 3:00.
+He spoke/talked about the meeting.
+
+Verb Usage Patterns
+SAY is used with:
+hello, good morning/afternoon etc, something/nothing, so, a prayer, a few words, no more, for certain/sure, etc.
+TELL is used with:
+the truth, a lie, a story, a secret, a joke, the time, the difference, one from another, somebody one's name, somebody the way, somebody so, someone's fortune, etc.
+ASK is used with:
+a question, a favour, the price, after somebody, the time, around, for something/somebody, etc.
+
+Reported Statements
+In reported speech, personal/possessive pronouns and possessive adjectives change according to the meaning of the sentence.
+Helen said, "I'm having a party." (direct statement)
+Helen said (that) she was having a party. (reported statement)
+Sue said, "I always cook myself." (direct statement)
+Sue said (that) she always cooked herself. (reported statement)
+We can report someone's words either a long time after they were said (reporting the past) or a short time after they were said (up-to-date reporting).
+Up-to-date Reporting
+The tenses can either change or remain the same in reported speech.
+Example:
+Direct speech: Stella said, "I've ordered pizza."
+Reported speech: Stella said (that) she had ordered pizza.
+
+Reporting the Past
+When the introductory verb is in the past simple, the tenses change as follows:
+Present Simple → Past Simple
+"I want to learn Japanese."
+She said (that) she wanted to learn Japanese.
+Present Continuous → Past Continuous
+"We are watching a film."
+They said (that) they were watching a film.
+Present Perfect → Past Perfect
+"I have brushed my teeth."
+She said (that) she had brushed her teeth.
+Past Simple → Past Simple or Past Perfect
+"I mowed the lawn."
+She said (that) she moved/had moved the lawn.
+Past Continuous → Past Continuous or Past Perfect Continuous
+"He was playing the piano."
+She said (that) he was playing/had been playing the piano.
+
+Future Simple → Future in the Past
+
+"I will meet you at 7.00.
+She said (that) she would meet me at 7.00.
+Changes in Words and Time Expressions
+Certain words and time expressions change according to the meaning:
+now → then, immediately
+today → that day
+yesterday → the day before, the previous day
+tomorrow → the next/following day
+this week → that week
+last week → the week before, the previous week
+next week → the week after, the following week
+ago → before
+here → there
+
+When Tenses Do Not Change
+Tenses do not change in reported speech when:
+The reporting verb (said, told, etc) is in the present, future or present perfect.
+"I can't speak French," he says. → He says (that) he can't speak French.
+The speaker expresses general truths, permanent states or conditions
+"The sun sets in the west," Mr Thom said. → Mr Thom said that the sun sets in the west.
+The reported sentence deals with conditionals type 2/3, wishes or unreal past.
+"I wish I was a film star," he said. → He said he wished he was a film star.
+The speaker is reporting something immediately after it was said.
+"The view is breathtaking," he said. → He said that the view is breathtaking.
+
+Reported Questions
+Reported questions are usually introduced with the verbs ask, inquire, wonder or the expression want to know.
+
+When the direct question begins with a question word (who, where, how, when, what, etc), the reported question is introduced with the same question word.
+"Where are you from?" she inquired. (direct question)
+She inquired where I was from. (reported question)
+When the direct question begins with an auxiliary (be, do, have) or a modal verb (can, may, etc), then the reported question is introduced with if or whether.
+He asked, "Do you want a ride to school?" (direct question)
+He wanted to know if/whether I wanted a ride to school. (reported question)
+In reported questions, the verb is in the affirmative. The question mark and words/expressions such as please, well, oh, etc are omitted. The verb tenses, pronouns and time expressions change as they do in statements.
+"Could you give me a hand, please?" he asked. (direct question)
+He asked me whether I could give him a hand. (reported question)
+
+Indirect Questions
+Indirect Questions are used to ask for advice or information. They are introduced with: Could you tell me ...?, Do you know ...?, I wonder ..., I want to know ..., I doubt ..., etc and the verb is in the affirmative.
+If the indirect question starts with I want to know ..., I wonder ... or I doubt ..., the question mark is omitted.
+Examples:
+Direct question: "Where is the library?"
+Indirect question: Do you know where the library is?
+
+Reported Requests/Suggestions
+Reported requests/suggestions are introduced with a special introductory verb (ask, beg, suggest, etc) followed by a to-infinitive, an -ing form or a that-clause depending on the introductory verb.
+"Please, don't go," he said to me. → He begged me not to go. (request)
+"Let's watch a film," he said. → He suggested watching a film. (suggestion)
+"You'd better take an aspirin," he said. → He suggested that I (should) take an aspirin. (suggestion)
+Reported Orders/Commands
+To report orders, commands or instructions, we use the verbs advise, order or tell + somebody + (not) to-infinitive.
+"Be patient!" she said to me. → She told me to be patient.
+"Don't go!" he said to her. → He ordered her not to go.
+"Be careful," he said to me. → He advised me to be careful.
+

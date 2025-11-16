@@ -1,0 +1,118 @@
+Modal Verbs in Reported Speech
+Note how modal verbs change in reported speech when the reported sentence is out of date:
+
+Direct Speech → Reported Speech
+"I will always remember you." → He said (that) he would always remember me.
+"I can't see you." → He said (that) he couldn't see me. (present)
+"We can visit you soon." → He said (that) they would be able to visit me soon. (future)
+"It may rain." → He said (that) it might rain.
+"What time shall we call her?" → He asked what time we would call her. (information)
+"Shall I buy this car?" → He asked (me) if he should buy that car. (advice)
+"Shall I give you a hand?" → He offered to give me a hand. (offer)
+"You must send him a reply." → He said (that) I had to send him a reply. (obligation)
+"She must be upset." → He said (that) she must be upset. (deduction)
+"You needn't worry." → He said (that) I didn't have to/didn't need to worry. (present)
+"You needn't come that early tomorrow." → He said (that) I wouldn't have to go/come that early the next day. (future)
+"They should give me a receipt." → He said (that) they should give him a receipt.
+
+Special Introductory Verbs
+Introductory verb + to-infinitive
+agree
+"Yes, I'll call you." → He agreed to call me.
+demand
+"Show me everything!" → He demanded to be shown everything.
+offer
+"Would you like me to help you?" → He offered to help me.
+promise
+"I'll be nicer to Jenny." → He promised to be nicer to Jenny.
+refuse
+"No, I won't join you." → He refused to join me.
+threaten
+"Turn down the music or I'll call the police." → He threatened to call the police if I didn't turn down the music.
+claim
+"I saw her crying." → He claimed to have seen her crying.
+Introductory verb + somebody + to-infinitive
+advise
+"You should drink some water." → He advised me to drink some water.
+allow
+"You can wear my jacket." → He allowed me to wear his jacket.
+ask
+"Please, close the door." → He asked me to close the door.
+beg
+"Please, please listen to me." → He begged me to listen to him.
+command
+"March!" → He commanded the soldiers to march.
+encourage
+"Go ahead, open the door." → He encouraged me to open the door.
+forbid
+"You mustn't park here." → He forbade me to park there.
+instruct
+"Press the button and wait for the message to appear." → He instructed me to press the button and wait for the message to appear.
+invite
+"Would you like to come to my party?" → He invited me to go to his party.
+order
+"Stop shouting immediately." → He ordered me to stop shouting immediately.
+permit
+"You may go now." → He permitted me to go.
+remind
+"Don't forget to take the keys with you." → He reminded me to take the keys with me.
+urge
+"Eat your food." → He urged me to eat my food.
+warn
+"Don't go out in this rain." → He warned me not to go out in that rain.
+want
+"I'd like you to be quiet." → He wanted me to be quiet.
+Introductory verb + -ing form
+accuse somebody of
+"You ate my sandwich." → He accused me of eating his sandwich.
+apologise for
+"I'm sorry I disappointed you." → He apologised for disappointing me.
+admit (to)
+"Yes, I broke the vase." → He admitted (to) breaking/having broken the vase.
+boast about/of
+"I am taller than you." → He boasted about being taller than me.
+complain about/of
+"I have a headache." → He complained of having a headache.
+deny
+"No, I didn't use your card." → He denied using/having used my card.
+
+insist on
+"You must take care of yourself." → He insisted on me/my taking care of myself.
+
+suggest
+"Let's cook dinner." → He suggested cooking dinner.
+Introductory verb + that-clause
+agree
+"Yes, that is a gorgeous dress." → He agreed that it was a gorgeous dress.
+boast
+"I'm a great painter." → He boasted that he was a great painter.
+claim
+"I know everything." → He claimed that he knew everything.
+complain
+"You always lie to me." → He complained that I always lied to him.
+
+deny
+"I've never met her." → He denied that he had ever met her.
+exclaim
+"It's splendid!" → He exclaimed that it was splendid.
+explain
+"It's not difficult at all." → He explained that it was not difficult at all.
+inform somebody
+"You will be given a test." → He informed me that I would be given a test.
+promise
+"I won't do this again." → He promised that he wouldn't do that again.
+suggest
+"You can cope with this problem." → The doctor suggested that I could cope with that problem.
+
+Introductory verb + how/where/why/what/whether + clause
+explain to somebody how + to-infinitive (when the subject of the infinitive is the same as the subject of the verb)
+"This is how you write it." → He explained to me how to write it.
+wonder (when the subject of the introductory verb is not the same as the subject in the reported question)
+"How can I win the award?" → He wondered how he could win the award.
+"Where is Paul?" → He wondered where Paul was.
+"Why is she so upset?" → He wondered why she was so upset.
+"Shall I go home?" → He wondered whether he should go home.
+"Where am I heading to?" → He wondered where he was heading to.
+wonder + whether + clause
+"What should I tell them?" → He wondered what he should tell them.
+"How can I stop this?" → He wondered how to stop that.

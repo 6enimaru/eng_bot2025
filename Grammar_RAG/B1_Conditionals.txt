@@ -1,0 +1,92 @@
+Module 7
+Conditionals: Type 1
+Type 1 conditionals are used to express a real or very probable situation in the present or future.
+Structure:
+If-clause: if + present simple
+Main clause: future simple
+Example:
+If she does well at the interview, she will get the job.
+Notes:
+When the hypothesis comes before the main clause, we separate the two parts with a comma.
+When the main clause comes before the if-clause, we do not use a comma.
+With type 1 conditionals we can use unless + affirmative verb (= if + negative verb).
+She will not speak to him unless he apologises. (If he doesn't apologise, she will not speak to him.)
+
+Conditionals: Types 2 & 3
+Type 2 (unreal present):
+Used to express imaginary situations which are contrary to facts in the present, and therefore unlikely to happen in the present or future.
+We can use either were or was for 1st and 3rd person singular in the if-clause.
+The structure if I were you, ... is used to give advice.
+Structure:
+If-clause: if + past simple/past continuous
+Main clause: would/could/might + bare infinitive
+
+Examples:
+If I had a good voice, I would become a singer.
+If Paul was not working today, we could go to the beach.
+If I were you, I would stay in tonight.
+Type 3 (unreal past):
+Used to express imaginary situations which are contrary to facts in the past.
+Also used to express regrets or criticism.
+Structure:
+If-clause: if + past perfect/past perfect continuous
+Main clause: would/could/might + bare perfect infinitive
+
+Examples:
+If I had studied harder, I would have passed the exams.
+If he hadn't been studying that hard, he wouldn't have passed his exams.
+Other Conditional Expressions
+Conditionals are usually introduced by if. Other expressions include:
+unless (= if not)
+providing, provided (that)
+as long as
+on condition (that)
+but for + -ing form/noun
+otherwise, or else
+what if
+supposing
+even if
+only if
+
+Examples:
+Unless she starts studying harder, she's going to fail her exams.
+Get up now or else you'll miss your appointment.
+Put your sweater on, otherwise you'll get cold.
+We'll leave on Monday, supposing the weather's fine.
+Note: When only if begins a sentence, the subject and the verb of the main clause are inverted.
+Only if you are dressed formally, will you be allowed in.
+
+Important Notes
+In conditionals type 2 in formal English, we normally use were instead of was after "if" for all persons.
+If he were/was here, things would have been different.
+We do not normally use will, would or should in if-clauses.
+If you stay up late, you can get into trouble. (NOT: if you will stay)
+However, will, would or should can be used in if-clauses to make a request or express annoyance, doubt, uncertainty or insistence.
+If she should need help, ask her to call me. (doubt/uncertainty)
+If you will stop arguing, we will find a solution. (request)
+Omission of 'if'
+If can be omitted in if-clauses. In this case should (cond. type 1), were (cond. type 2) and had (cond. type 3) come before the subject.
+
+Examples:
+If he should pass the exam, he will apply to university. → Should he pass the exam, he will apply to university.
+If there were an election tomorrow, who would you vote for? → Were there an election tomorrow, who would you vote for?
+If I had known, I would have told you. → Had I known, I would have told you.
+
+Wishes
+We can use I wish/if only to express a wish.
+I wish/if only + past simple/past continuous
+To say that we would like something to be different about a present situation
+I wish I was not working right now. (but I am)
+If only I were going to the concert tonight. (but I'm not)
+I wish/if only + past perfect
+To express regret about something which happened or didn't happen in the past
+I wish I had studied harder. (but I didn't)
+If only I hadn't been so foolish. (but I was)
+I wish/if only + subject + would + bare infinitive
+To express a polite imperative or a desire for a situation or person's behaviour to change
+I wish you wouldn't be so rude to your sister.
+If only you would stop arguing.
+Note:
+If only is used in exactly the same way as I wish but it is more emphatic or more dramatic.
+We can use were instead of was after "wish" and "if only".
+I wish I were young again.
